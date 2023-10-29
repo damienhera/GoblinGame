@@ -1,0 +1,16 @@
+All of the assets used are sourced from craftPixel and follow the licensing agreement
+https://craftpix.net/file-licenses/
+
+The assets used include:
+Goblin and Ogre assets
+https://craftpix.net/freebies/free-orc-ogre-and-goblin-chibi-2d-game-sprites/
+Player Character
+https://craftpix.net/freebies/free-fallen-angel-chibi-2d-game-sprites/
+Castle
+https://craftpix.net/freebies/free-castle-2d-game-assets/
+BackGround
+https://craftpix.net/freebies/free-forest-battle-backgrounds/
+Explosion
+https://craftpix.net/freebies/free-animated-explosion-sprite-pack/
+
+The splashscreen and endscreen are made with a combination of these assets.
